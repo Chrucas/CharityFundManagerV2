@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CharityFundManagerV2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_charity">Charity…</string>
+    <string name="hint_funds">Funds…</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Charity not saved because it is empty.</string>
+    <string name="undo_delete">UNDO</string>
+    <string name="no_charity">Not a Charity</string>
+    <string name="title_activity_edit_charity">EditCharityActivity</string>
+</resources>
